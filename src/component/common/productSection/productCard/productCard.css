@@ -1,0 +1,94 @@
+.product-card {
+    margin:12px 0px 24px 0px;
+    padding: 10px;
+    border-radius: 15px;
+    max-width: 228px;
+    border: 1px solid transparent;
+}
+.product-card-cover{
+    height: 148px;
+    width:228px;
+    border-radius: 15px;
+    position: relative;
+}
+.product-card-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+}
+.pro-off
+{
+    position:absolute;
+    left:0px;
+    bottom:20px;
+    background-color: #03989e;
+    font-size:14px;
+    border-radius: 0px 2px 2px 0px;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 500;
+    line-height: 18px;
+}
+.gold-off{
+    position:absolute;
+    left:0px;
+    bottom: 8px;
+    background-color:  #d16d8b;
+    font-size:14px;
+    border-radius: 0px 2px 2px 0px;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 500;
+    line-height: 18px;
+}
+.res-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0px 4px;
+  }
+  
+  .res-name {
+    max-width: 135px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    font-weight: 600;
+    color: #d16d8b;
+  }
+  
+  .res-rating {
+    padding: 0px 5px;
+    font-size: 11px;
+    font-weight: 600;
+    color:white;
+    background-color:green;
+    border-radius: 6px;
+    height: 24px;
+  }
+  
+  .res-rating i {
+    font-size: 10px;
+    margin-left: 2px;
+  }
+  
+  .res-cuisine {
+    max-width: 36%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 14px;
+  }
+  
+  .res-cuisine-tag {
+    margin-right: 2px;
+    color: #03989e;
+  }
+  
+  .approx-price {
+    font-size: 14px;
+    color: #d16d8b;
+  }
+  

@@ -1,0 +1,10 @@
+.shop-collection{
+    background-color: aliceblue;
+    width:100%;
+    padding: 40px 0px;
+}
+.item-name{
+    text-align: center;
+    color:#d16d8b;
+    font-weight: 600;
+}

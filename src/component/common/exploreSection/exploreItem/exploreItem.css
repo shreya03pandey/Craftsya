@@ -1,0 +1,28 @@
+.explore-item-cover{
+    height: 190px;
+    width: 240px;
+    background-color: aliceblue;
+    box-shadow: grey;
+    border-radius: 8px;
+}
+.explore-item-image{
+    object-fit:cover;
+    height:100%;
+    width:100%;
+    border-radius:8px;
+    transition: 0.5s all ease-in-out;
+}
+.explore-item-image:hover  {
+    transform: scale(1.2);
+}
+.explore-item-title{
+    font-size: 20px;
+    line-height:32px;
+    font-weight: 500;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-top: 18px;
+}
+.explore-item-price{
+    color:#03989e;
+}

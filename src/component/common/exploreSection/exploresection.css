@@ -1,0 +1,33 @@
+.explore-collections{
+    background-color: aliceblue;
+    width:100%;
+    padding: 40px 0px;
+}
+.item-name{
+    text-align: center;
+    color:#d16d8b;
+    font-weight: 600;
+}
+.collection-subtitle{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:10px;
+}
+.collection-st-text{
+    font-weight: 600px;
+    font-size:16px;
+    color:#eb8eae
+}
+.collection-location{
+    display: flex;
+    margin-right:30px;
+}
+.location-text{
+    color:#03989e;
+    font-weight: 600px;
+    font-size:16px;
+}
+.fi{
+    color:#d16d8b;
+}

@@ -1,0 +1,30 @@
+.shop-item-cover{
+    height: 190px;
+    width: 240px;
+    background-color: aliceblue;
+    box-shadow: grey;
+    border-radius: 8px;
+}
+.shop-item-image{
+    object-fit:cover;
+    height:100%;
+    width:100%;
+    border-radius:8px;
+    transition: 0.5s all ease-in-out;
+}
+.shop-item-title{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-right: 30px;
+    line-height:32px;
+    font-weight: 500;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-top: 6px;
+}
+
+    
+
+.shop-item-image:hover  {
+    transform: scale(1.2);
+}
