@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Craftsya/static/css/main.66e35b21.css",
+    "main.js": "/Craftsya/static/js/main.75aed372.js",
+    "static/js/787.fc56aaae.chunk.js": "/Craftsya/static/js/787.fc56aaae.chunk.js",
+    "index.html": "/Craftsya/index.html",
+    "main.66e35b21.css.map": "/Craftsya/static/css/main.66e35b21.css.map",
+    "main.75aed372.js.map": "/Craftsya/static/js/main.75aed372.js.map",
+    "787.fc56aaae.chunk.js.map": "/Craftsya/static/js/787.fc56aaae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e35b21.css",
+    "static/js/main.75aed372.js"
+  ]
+}
